@@ -1,0 +1,19 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "default",
+  "usingComponents": {
+    "uni-number-box": "/uni_modules/uni-number-box/components/uni-number-box/uni-number-box",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "swipper-image": "/components/index/swipper-image",
+    "uni-list-item": "/components/uni-ui/uni-list-item/uni-list-item",
+    "divider": "/components/common/divider",
+    "u-parse": "/components/uni-ui/uParse/src/wxParse",
+    "bottom-btn": "/components/detail/bottom-btn",
+    "common-popup": "/components/common/common-popup",
+    "price": "/components/common/price",
+    "zcm-radio-group": "/components/common/radio-group",
+    "card": "/components/common/card",
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card"
+  }
+}

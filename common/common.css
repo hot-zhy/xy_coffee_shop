@@ -1,0 +1,20 @@
+page{
+	height: 100%;
+	font-size:28upx;
+	line-height: 1.8;
+	background:#FFFFFF;
+}
+image{
+	width: 100%;
+}
+/* 项目主色调 */
+.main-bg-color{
+	background: #966034;
+}
+/* 主点击背景颜色 */
+.main-bg-hover-color{background-color: rgba(150,96,52,0.95);}
+/* 主字体颜色 */
+.main-text-color{color:#966034;}
+/* 主边框颜色 */
+.main-border-color{border-color:#F1F1F1;}
+

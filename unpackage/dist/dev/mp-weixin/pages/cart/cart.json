@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "购物车",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-number-box": "/uni_modules/uni-number-box/components/uni-number-box/uni-number-box",
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "price": "/components/common/price",
+    "number-box": "/uni_modules/uni-number-box/components/uni-number-box/uni-number-box",
+    "card": "/components/common/card",
+    "zcm-radio-group": "/components/common/radio-group",
+    "common-popup": "/components/common/common-popup"
+  }
+}

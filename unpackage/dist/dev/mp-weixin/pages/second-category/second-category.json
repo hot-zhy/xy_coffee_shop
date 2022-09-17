@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "default",
+  "usingComponents": {
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "price": "/components/common/price",
+    "common-list": "/components/common/common-list"
+  }
+}

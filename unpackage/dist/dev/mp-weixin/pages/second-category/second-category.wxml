@@ -1,0 +1,1 @@
+<view class="p-1"><view class="row j-sb "><block wx:for="{{arr}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><common-list vue-id="{{'25ad7b60-1-'+index}}" item="{{item}}" index="{{index}}" bind:__l="__l"></common-list></block></block></view></view>

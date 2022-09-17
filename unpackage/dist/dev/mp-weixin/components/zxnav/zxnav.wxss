@@ -1,0 +1,56 @@
+
+.content {
+        position: relative;
+}
+.search-customBar {
+        position: fixed;
+        width: 100%;
+        height: auto;
+        left: 0;
+        top: 0;
+        background-color: #f7f7f7;
+        overflow: hidden;
+        z-index: 99;
+}
+.new-top {
+        width: 74%;
+        height: auto;
+        padding: 0 22rpx;
+        box-sizing: border-box;
+        overflow: hidden;
+}
+.search-bak {
+        position: absolute;
+        left: 0;
+        bottom: 6rpx;
+        width: 67rpx;
+        height: 67rpx;
+        padding: 0 10rpx 5rpx 0rpx;
+		border-radius: 100%;
+}
+.new-search-box {
+        position: absolute;
+        left: 68rpx;
+        bottom: 12rpx;
+        width: 71%;
+        height: 66rpx;
+        line-height: 66rpx;
+        background: #FFF;
+        border-radius: 33rpx;
+        overflow: hidden;
+}
+.new-search-box image {
+        float: left;
+        width: 32rpx;
+        height: 32rpx;
+        margin: 18rpx 20rpx 0 30rpx;
+}
+.new-search-box input {
+        /* float: left; */
+        font-size: 26rpx;
+        font-family: Microsoft YaHei;
+        font-weight: 400;
+        color: #999;
+        margin-top: 12rpx;
+}
+

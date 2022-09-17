@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "zxnav": "/components/zxnav/zxnav",
+    "swipper-image": "/components/index/swipper-image",
+    "common-list": "/components/common/common-list"
+  }
+}

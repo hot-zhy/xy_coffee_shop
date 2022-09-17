@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "default",
+  "usingComponents": {
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "card": "/components/common/card",
+    "color-tag": "/components/search/color-tag",
+    "uni-list-item": "/components/uni-ui/uni-list-item/uni-list-item",
+    "search-list": "/components/search-list/search-list"
+  }
+}
